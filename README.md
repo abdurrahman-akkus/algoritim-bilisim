@@ -1,1 +1,1 @@
-#algoritimn2
+#algoritim-bilişim1
